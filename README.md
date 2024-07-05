@@ -26,4 +26,5 @@ This project utilizes OpenCV to detect gates in a video. The script applies seve
 
 ## Results
 
-##
+## Conclusion
+This project demonstrates a method for detecting gates in videos using OpenCV. By combining various image processing techniques, the script effectively highlights gates and tracks their positions frame by frame.
