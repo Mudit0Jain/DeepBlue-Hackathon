@@ -23,10 +23,10 @@ This project utilizes OpenCV to detect gates in a video. The script applies seve
 10. Display results and handle exit
 
 ## Test Cases 
-![test 1](WhatsApp Image 2024-01-18 at 01.21.23_4c26214d.jpg)
+![test 1](testCases/WhatsApp%20Image%202024-01-18%20at%2001.21.23_4c26214d.jpg)
 
 ## Results
-
+![result 1](testCases/WhatsApp%20Image%202024-01-18%20at%2001.21.23_4c26214d.jpg)
 
 ## Conclusion
 This project demonstrates a method for detecting gates in videos using OpenCV. By combining various image processing techniques, the script effectively highlights gates and tracks their positions frame by frame.
